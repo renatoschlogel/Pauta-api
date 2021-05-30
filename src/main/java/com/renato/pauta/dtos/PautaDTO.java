@@ -13,6 +13,6 @@ import lombok.Setter;
 @AllArgsConstructor
 public class PautaDTO {
 	
-	private Long id; 
-	
+	private Long id;
+
 }
